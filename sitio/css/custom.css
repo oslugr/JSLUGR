@@ -140,7 +140,6 @@ footer p {
     font-size: 15px;
 }
 
-
 /* TABLA del Programa */
 
 .titulo, .titulo1{
@@ -154,4 +153,14 @@ footer p {
 
 td{
     vertical-align: middle !important;
+}
+
+.tbc_item{
+	font-size: 0.8em;
+	color:grey;
+}
+
+.twitterhashtag{
+	font-size:1.2em;
+	font-weight:bold;
 }

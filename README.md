@@ -1,5 +1,4 @@
-# sitio8jr
-Sitio de las VIII Jornadas de Usuarios de R (Albacete, noviembre 2016)
+# sitio9jr
+Sitio de las IX Jornadas de Usuarios de R (Granada, noviembre 2017)
 
-Si tienes algúna sugerencia, por favor, [abre un _issue_](https://github.com/cjgb/sitio8jr/issues) y trataremos de resolverlo.
-
+Si tienes algúna sugerencia, por favor, [abre un _issue_](https://github.com/oslugr/sitio9jr/issues) y trataremos de resolverlo.
