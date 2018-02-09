@@ -1,4 +1,4 @@
-# sitio9jr
-Sitio de las IX Jornadas de Usuarios de R (Granada, noviembre 2017)
+# sitiojslugr
+Sitio de las Jornadas de Software Libre de la Universidad de Granada (Granada, 27 y 28 de septiembre de 2018)
 
-Si tienes algúna sugerencia, por favor, [abre un _issue_](https://github.com/oslugr/sitio9jr/issues) y trataremos de resolverlo.
+Si tienes algúna sugerencia, por favor, [abre un _issue_](https://github.com/oslugr/JSLUGR/issues) y trataremos de resolverlo.
